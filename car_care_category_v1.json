@@ -1,0 +1,784 @@
+[
+  {
+    "Category": "Tire Service",
+    "Sub-category": [
+      {
+        "title": "New Tires",
+        "description": "Installation of new tires on the vehicle.",
+        "symptoms": "Worn-out tires, punctured tires beyond repair, or upgrading tires for better performance.",
+        "moreServiceList": [
+          "4 tires",
+          "3 tires",
+          "2 tires",
+          "1 tires"
+        ],
+        "nationalAveragePrice": "$100-200 per tire (excluding the cost of tires)"
+      },
+      {
+        "title": "Flat tire patching repair",
+        "description": "Repair tire punctures and leaks to restore functionality.",
+        "symptoms": "Visible tire puncture, loss of tire pressure, or flat tire.",
+        "moreServiceList": [
+          "4 tires",
+          "3 tires",
+          "2 tires",
+          "1 tires"
+        ],
+        "nationalAveragePrice": "$20-40"
+      },
+      {
+        "title": "Tire balancing",
+        "description": "Balancing weight distribution on tires to ensure smooth and even tire wear.",
+        "symptoms": "Vibration in the steering wheel or uneven tire wear.",
+        "moreServiceList": [
+          "4 tires",
+          "3 tires",
+          "2 tires",
+          "1 tires"
+        ],
+        "nationalAveragePrice": "$40-75"
+      },
+      {
+        "title": "Tire rotation",
+        "description": "Moving tires to different positions on the vehicle to promote even tire wear.",
+        "symptoms": "Uneven tire wear or manufacturer's recommended maintenance interval.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$20-50"
+      },
+      {
+        "title": "Brake rotor and pad replacement",
+        "description": "Replacing worn-out brake pads and damaged brake rotors to ensure safe braking performance.",
+        "symptoms": "Squealing or grinding noises when braking, reduced braking effectiveness, or uneven brake pad wear.",
+        "moreServiceList": [
+          "Both axles",
+          "Front axle only",
+          "Rear axle only"
+        ],
+        "nationalAveragePrice": "$150-400 per axle"
+      }
+    ]
+  },
+  {
+    "Category": "Air Filters",
+    "Sub-category": [
+      {
+        "title": "Engine air filter change",
+        "description": "Replacement of the engine air filter to maintain clean air intake for engine combustion.",
+        "symptoms": "Reduced engine performance, dirty air filter, or manufacturer's recommended maintenance interval.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$20-50"
+      },
+      {
+        "title": "Cabin air filter change",
+        "description": "Replacement of the cabin air filter to ensure clean air inside the vehicle's cabin.",
+        "symptoms": "Reduced air flow from vents, musty odor in cabin, or manufacturer's recommended maintenance interval.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$30-70"
+      }
+    ]
+  },
+  {
+    "Category": "Fluid changes",
+    "Sub-category": [
+      {
+        "title": "Transmission fluid change",
+        "description": "Replacement of old transmission fluid with fresh fluid to maintain transmission performance.",
+        "symptoms": "Slipping gears, rough shifting, or manufacturer's recommended maintenance interval.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-250"
+      },
+      {
+        "title": "Rear differential fluid change",
+        "description": "Replacement of rear differential fluid to ensure proper lubrication and performance.",
+        "symptoms": "Whining noise from rear differential, leaking fluid, or manufacturer's recommended maintenance interval.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-250"
+      },
+      {
+        "title": "Brake fluid change",
+        "description": "Replacement of old brake fluid to maintain brake system effectiveness.",
+        "symptoms": "Soft or spongy brake pedal, contaminated brake fluid, or manufacturer's recommended maintenance interval.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$70-120"
+      },
+      {
+        "title": "Power steering fluid change",
+        "description": "Replacement of old power steering fluid to ensure proper steering performance.",
+        "symptoms": "Whining noise when turning steering wheel, difficulty in steering, or manufacturer's recommended maintenance interval.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$70-120"
+      }
+    ]
+  },
+  {
+    "Category": "Wheel alignments",
+    "Sub-category": [
+      {
+        "title": "Four wheel alignment",
+        "description": "Alignment of all four wheels to ensure proper vehicle handling and tire wear.",
+        "symptoms": "Vehicle pulling to one side, uneven tire wear, or after suspension or steering system repairs.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$70-100"
+      },
+      {
+        "title": "Thrust line alignment",
+        "description": "Alignment of wheels along the thrust line to correct vehicle drift or steering issues.",
+        "symptoms": "Vehicle veering to one side, steering wheel off-center, or uneven tire wear.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$70-100"
+      }
+    ]
+  },
+  {
+    "Category": "Engine and battery services",
+    "Sub-category": [
+      {
+        "title": "Oil change",
+        "description": "Replacement of old engine oil and oil filter to ensure engine lubrication and longevity.",
+        "symptoms": "Dirty or low engine oil, illuminated oil warning light, or manufacturer's recommended maintenance interval.",
+        "moreServiceList": [
+          "Conventional oil change",
+          "Synthetic blend oil change",
+          "Full synthetic oil change",
+          "Diesel oil change",
+          "High mileage oil change"
+        ],
+        "nationalAveragePrice": "$30-75"
+      },
+      {
+        "title": "Battery replacement",
+        "description": "Replacement of old or failing battery to ensure reliable vehicle starting.",
+        "symptoms": "Slow cranking or failure to start, corroded battery terminals, or old battery age.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-300"
+      },
+      {
+        "title": "Gas cap replacement",
+        "description": "Replacement of damaged or malfunctioning gas cap to prevent fuel evaporation and maintain emission standards.",
+        "symptoms": "Check engine light due to evaporative emission system fault, fuel odor, or visible gas cap damage.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$15-50"
+      }
+    ]
+  },
+  {
+    "Category": "Diagnostic and inspection services",
+    "Sub-category": [
+      {
+        "title": "Preventative Maintenance Inspection (PMI)",
+        "description": "Preventative Maintenance Inspection (PMI) is a thorough examination and evaluation of various components and systems within a vehicle to identify potential issues before they escalate into major problems. PMI is typically conducted at regular intervals as part of a proactive maintenance strategy aimed at preventing breakdowns, prolonging vehicle lifespan, and ensuring safety and reliability. It includes inspection of engine components, fluid levels, braking system, suspension and steering, electrical system, tires and wheels, exhaust system, safety equipment, and more.",
+        "symptoms": "Regular PMIs do not have specific symptoms since they are proactive inspections aimed at identifying potential issues before they cause noticeable symptoms. However, the absence of recent PMIs or a history of neglected maintenance may increase the likelihood of unexpected breakdowns, reduced vehicle performance, or safety hazards.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "Prices for PMIs can vary depending on the vehicle type, location, and the extent of the inspection. Typically, PMIs may range from $100 to $300 or more, but it's best to consult with a local repair shop for accurate pricing."
+      },
+      {
+        "title": "State service",
+        "description": "Vehicle inspection to ensure compliance with state-mandated safety and emission standards.",
+        "symptoms": "Required annually or biennially depending on state regulations.",
+        "moreServiceList": [
+          "Safety and emission inspection",
+          "Safety inspection",
+          "Emissions inspection (Smong check)",
+          "IDOD inspection"
+        ],
+        "nationalAveragePrice": "$20-100"
+      }
+    ]
+  },
+  {
+    "Category": "Windshield services",
+    "Sub-category": [
+      {
+        "title": "Windshield washer fluid refill",
+        "description": "Refilling windshield washer fluid reservoir to ensure clear visibility.",
+        "symptoms": "Low washer fluid warning light, insufficient washer fluid during use.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$10-20"
+      },
+      {
+        "title": "Windshield wiper blade replacement",
+        "description": "Replacement of old or worn-out windshield wiper blades for optimal visibility during inclement weather.",
+        "symptoms": "Streaking, skipping, or smearing on windshield during wiper operation.",
+        "moreServiceList": [
+          "Winter blades",
+          "Standard blades"
+        ],
+        "nationalAveragePrice": "$20-50 per pair"
+      },
+      {
+        "title": "Windshield wiper arm replacement",
+        "description": "Replacement of damaged or malfunctioning windshield wiper arms to ensure proper wiper blade movement.",
+        "symptoms": "Wiper blades not making proper contact with windshield, excessive play in wiper arm.",
+        "moreServiceList": [
+          "Two arms",
+          "One arms"
+        ],
+        "nationalAveragePrice": "$50-100 per arm"
+      }
+    ]
+  },
+  {
+    "Category": "Light Bulbs",
+    "Sub-category": [
+      {
+        "title": "Low beam light bulb replacement",
+        "description": "Replacement of low-beam headlight bulbs for proper illumination during night driving.",
+        "symptoms": "Failed headlight bulb, dim or insufficient light output from low-beam headlights.",
+        "moreServiceList": [
+          "2 bulbs",
+          "1 bulb"
+        ],
+        "nationalAveragePrice": "$20-50 per bulb"
+      },
+      {
+        "title": "High beam light bulb replacement",
+        "description": "Replacement of high-beam headlight bulbs for optimal visibility during night driving.",
+        "symptoms": "Failed headlight bulb, dim or insufficient light output from high-beam headlights.",
+        "moreServiceList": [
+          "2 bulbs",
+          "1 bulb"
+        ],
+        "nationalAveragePrice": "$20-50 per bulb"
+      },
+      {
+        "title": "Parking light replacement",
+        "description": "Replacement of parking light bulbs for visibility and safety when parking or driving with parking lights on.",
+        "symptoms": "Failed parking light bulb, illuminated warning light, or reduced visibility.",
+        "moreServiceList": [
+          "All",
+          "Front",
+          "Rear"
+        ],
+        "nationalAveragePrice": "$10-30 per bulb"
+      },
+      {
+        "title": "Blinker Light replacement",
+        "description": "Replacement of turn signal bulbs for proper indication of intended direction when turning or changing lanes.",
+        "symptoms": "Rapid blinking of turn signal, failed turn signal bulb, or illuminated warning light.",
+        "moreServiceList": [
+          "All",
+          "Front",
+          "Rear"
+        ],
+        "nationalAveragePrice": "$10-30 per bulb"
+      },
+      {
+        "title": "Tail light bulb replacement",
+        "description": "Replacement of tail light bulbs for visibility and safety when driving in low-light conditions or braking.",
+        "symptoms": "Failed tail light bulb, illuminated warning light, or reduced visibility.",
+        "moreServiceList": [
+          "2 bulbs",
+          "1 bulb"
+        ],
+        "nationalAveragePrice": "$10-30 per bulb"
+      },
+      {
+        "title": "Brake light bulb replacement",
+        "description": "Replacement of brake light bulbs for visibility and safety when braking.",
+        "symptoms": "Failed brake light bulb, illuminated warning light, or reduced visibility.",
+        "moreServiceList": [
+          "2 bulbs",
+          "1 bulb"
+        ],
+        "nationalAveragePrice": "$10-30 per bulb"
+      },
+      {
+        "title": "Backup Light replacement",
+        "description": "Replacement of backup light bulbs for visibility and safety when reversing.",
+        "symptoms": "Failed backup light bulb, illuminated warning light, or reduced visibility.",
+        "moreServiceList": [
+          "2 bulbs",
+          "1 bulb"
+        ],
+        "nationalAveragePrice": "$10-30 per bulb"
+      },
+      {
+        "title": "Dome light replacement",
+        "description": "Replacement of dome light bulbs for interior illumination.",
+        "symptoms": "Failed dome light bulb, dim or no interior lighting.",
+        "moreServiceList": [
+          "2 bulbs",
+          "1 bulb"
+        ],
+        "nationalAveragePrice": "$10-30 per bulb"
+      },
+      {
+        "title": "Interior light replacement",
+        "description": "Replacement of interior light bulbs for various interior lighting needs.",
+        "symptoms": "Failed interior light bulb, dim or no interior lighting.",
+        "moreServiceList": [
+          "4 bulbs",
+          "3 bulbs",
+          "2 bulbs",
+          "1 bulb"
+        ],
+        "nationalAveragePrice": "$10-30 per bulb"
+      },
+      {
+        "title": "Door panel light replacement",
+        "description": "Replacement of door panel light bulbs for visibility and aesthetics.",
+        "symptoms": "Failed door panel light bulb, dim or no door panel lighting.",
+        "moreServiceList": [
+          "2 bulbs",
+          "1 bulb"
+        ],
+        "nationalAveragePrice": "$10-30 per bulb"
+      },
+      {
+        "title": "Foo light replacement",
+        "description": "Replacement of foo light bulbs for specific vehicle lighting needs.",
+        "symptoms": "Failed foo light bulb, dim or no foo lighting.",
+        "moreServiceList": [
+          "2 bulbs",
+          "1 bulb"
+        ],
+        "nationalAveragePrice": "$10-30 per bulb"
+      },
+      {
+        "title": "License plate light replacement",
+        "description": "Replacement of license plate light bulbs for visibility and compliance with vehicle lighting regulations.",
+        "symptoms": "Failed license plate light bulb, dim or no license plate illumination.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$10-30 per bulb"
+      },
+      {
+        "title": "Trunk light replacement",
+        "description": "Replacement of trunk light bulbs for visibility and convenience when accessing the trunk.",
+        "symptoms": "Failed trunk light bulb, dim or no trunk lighting.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$10-30 per bulb"
+      }
+    ]
+  },
+  {
+    "Category": "A/C and heating service",
+    "Sub-category": [
+      {
+        "title": "Alternator replacement",
+        "description": "Replacement of the alternator to ensure proper charging of the vehicle's battery.",
+        "symptoms": "Dim or flickering lights, battery warning light illuminated, or vehicle stalling.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$300-800"
+      },
+      {
+        "title": "A/C change",
+        "description": "Replacement of the air conditioning system to restore proper cooling performance.",
+        "symptoms": "Weak or warm air from vents, unusual noises from A/C system, or A/C system failure.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$1000-4000"
+      },
+      {
+        "title": "Coolant changes",
+        "description": "Replacement of old engine coolant to ensure proper engine cooling and temperature regulation.",
+        "symptoms": "Overheating, coolant leaks, or manufacturer's recommended maintenance interval.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-250"
+      },
+      {
+        "title": "Coolant flush",
+        "description": "Complete flushing of the cooling system to remove old coolant, debris, and contaminants.",
+        "symptoms": "Overheating, rusty or discolored coolant, or manufacturer's recommended maintenance interval.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-250"
+      },
+      {
+        "title": "Thermostat replacement",
+        "description": "Replacement of the thermostat to regulate engine temperature and prevent overheating.",
+        "symptoms": "Engine overheating, fluctuating temperature gauge, or coolant leaks.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$150-350"
+      },
+      {
+        "title": "Radiator replacement",
+        "description": "Replacement of the radiator to ensure proper engine cooling.",
+        "symptoms": "Coolant leaks, overheating, or damaged radiator.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$400-900"
+      },
+      {
+        "title": "Radiator hose replacement",
+        "description": "Replacement of worn or damaged radiator hoses to prevent coolant leaks.",
+        "symptoms": "Visible coolant leaks, soft or swollen hoses, or coolant odor.",
+        "moreServiceList": [
+          "Upper",
+          "Lower"
+        ],
+        "nationalAveragePrice": "$150-300"
+      },
+      {
+        "title": "Heater hose replacement",
+        "description": "Replacement of worn or damaged heater hoses to ensure proper heating operation.",
+        "symptoms": "Coolant leaks, reduced cabin heating, or visible hose damage.",
+        "moreServiceList": [
+          "Both",
+          "One"
+        ],
+        "nationalAveragePrice": "$150-300"
+      },
+      {
+        "title": "Heater Core replacement",
+        "description": "Replacement of the heater core to restore proper heating performance.",
+        "symptoms": "No heat or insufficient heat from vents, sweet odor in cabin, or coolant leaks.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$500-1000"
+      },
+      {
+        "title": "Blower motor replacement",
+        "description": "Replacement of the blower motor to restore proper airflow for heating and cooling.",
+        "symptoms": "Weak airflow from vents, noisy blower motor, or blower motor failure.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$300-700"
+      },
+      {
+        "title": "Engine coolant temperature sensor replacement",
+        "description": "Replacement of the coolant temperature sensor to ensure accurate temperature readings for engine management.",
+        "symptoms": "Inaccurate temperature gauge readings, check engine light related to coolant temperature, or engine performance issues.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$150-300"
+      },
+      {
+        "title": "Coolant reservoir replacement",
+        "description": "Replacement of the coolant reservoir to prevent coolant leaks and ensure proper coolant level.",
+        "symptoms": "Visible coolant leaks, low coolant level, or damaged coolant reservoir.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-200"
+      }
+    ]
+  },
+  {
+    "Category": "Engine & Battery services",
+    "Sub-category": [
+      {
+        "title": "Fuel injector cleaning service",
+        "description": "Cleaning of fuel injectors to remove deposits and improve fuel delivery.",
+        "symptoms": "Poor fuel economy, rough idling, or engine misfires.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-250"
+      },
+      {
+        "title": "Spark plug replacement",
+        "description": "Replacement of spark plugs to ensure proper ignition and engine performance.",
+        "symptoms": "Rough idling, difficulty starting engine, or decreased fuel efficiency.",
+        "moreServiceList": [
+          "4-cylinder engine",
+          "6-cylinder engine",
+          "8-cylinder engine"
+        ],
+        "nationalAveragePrice": "$100-300"
+      },
+      {
+        "title": "Air induction cleaning service",
+        "description": "Cleaning of air intake system components to remove carbon deposits and improve airflow.",
+        "symptoms": "Reduced engine performance, rough idling, or engine hesitation.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-250"
+      },
+      {
+        "title": "Water Pump replacement",
+        "description": "Replacement of the water pump to ensure proper engine cooling.",
+        "symptoms": "Coolant leaks, overheating, or noisy water pump.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$300-800"
+      },
+      {
+        "title": "Engine starter replacement",
+        "description": "Replacement of the starter motor to ensure reliable engine starting.",
+        "symptoms": "Slow cranking or failure to start, clicking noise when turning key.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$300-800"
+      },
+      {
+        "title": "Head gasket replacement",
+        "description": "Replacement of the head gasket to prevent coolant and oil leaks between engine block and cylinder head.",
+        "symptoms": "Overheating, coolant/oil leaks, white smoke from exhaust, or engine misfires.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$1000-2500"
+      },
+      {
+        "title": "Engine mount replacement",
+        "description": "Replacement of worn or damaged engine mounts to reduce engine vibration and noise.",
+        "symptoms": "Excessive engine vibration, clunking noises when accelerating or shifting gears.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$200-500 per mount"
+      },
+      {
+        "title": "Fuel pump replacement",
+        "description": "Replacement of the fuel pump to ensure proper fuel delivery to the engine.",
+        "symptoms": "Engine sputtering at high speeds, loss of power, or difficulty starting.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$500-1200"
+      },
+      {
+        "title": "Fuel filter replacement",
+        "description": "Replacement of the fuel filter to prevent contaminants from reaching the engine.",
+        "symptoms": "Engine hesitation, rough idling, or decreased fuel efficiency.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$50-150"
+      },
+      {
+        "title": "Plug wire replacement",
+        "description": "Replacement of spark plug wires to ensure proper ignition system performance.",
+        "symptoms": "Misfires, rough idling, or engine hesitation.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-300"
+      },
+      {
+        "title": "Catalytic converter replacement",
+        "description": "Replacement of the catalytic converter to reduce emissions and ensure compliance with environmental regulations.",
+        "symptoms": "Check engine light related to catalytic converter, rattling noise from exhaust, or failed emissions test.",
+        "moreServiceList": [
+          "4-cylinder engine",
+          "6-cylinder engine",
+          "8-cylinder engine"
+        ],
+        "nationalAveragePrice": "$500-2000"
+      },
+      {
+        "title": "Battery cable replacement",
+        "description": "Replacement of damaged or corroded battery cables to ensure proper electrical connections.",
+        "symptoms": "Poor electrical connections, difficulty starting engine, or corroded battery terminals.",
+        "moreServiceList": [
+          "Both cables",
+          "Positive cable",
+          "Negative cable"
+        ],
+        "nationalAveragePrice": "$100-250"
+      },
+      {
+        "title": "Rod bearing replacement",
+        "description": "Replacement of worn or damaged rod bearings to prevent engine failure.",
+        "symptoms": "Knocking or tapping noises from engine, low oil pressure, or engine failure.",
+        "moreServiceList": [
+          "4-cylinder engine",
+          "6-cylinder engine",
+          "8-cylinder engine"
+        ],
+        "nationalAveragePrice": "$1000-3000"
+      },
+      {
+        "title": "Flywheel replacement",
+        "description": "Replacement of the flywheel to ensure proper engagement of the clutch and smooth engine operation.",
+        "symptoms": "Grinding or scraping noises when starting engine, clutch slippage, or difficulty shifting gears.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$500-1500"
+      }
+    ]
+  },
+  {
+    "Category": "Windshield services",
+    "Sub-category": [
+      {
+        "title": "Windshield replacement",
+        "description": "Replacement of the windshield due to damage or cracks that impair visibility and safety.",
+        "symptoms": "Cracked or shattered windshield, obstructed view, or failing windshield integrity.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$200-600"
+      },
+      {
+        "title": "Windshield washer fluid reservoir replacement",
+        "description": "Replacement of the windshield washer fluid reservoir due to leaks or damage.",
+        "symptoms": "Visible leaks under vehicle, low washer fluid warning light, or cracked reservoir.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-250"
+      },
+      {
+        "title": "Windshield washer pump replacement",
+        "description": "Replacement of the windshield washer pump to ensure proper washer fluid distribution.",
+        "symptoms": "No washer fluid spray, weak spray, or unusual noises from washer pump.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-250"
+      },
+      {
+        "title": "Windshield wiper motor replacement",
+        "description": "Replacement of the windshield wiper motor to ensure proper wiper blade movement.",
+        "symptoms": "Wiper blades not moving or erratic movement, unusual noises from wiper motor.",
+        "moreServiceList": [
+          "Front wiper",
+          "Rear wiper"
+        ],
+        "nationalAveragePrice": "$200-500"
+      },
+      {
+        "title": "Windshield wiper switch replacement",
+        "description": "Replacement of the windshield wiper switch to ensure proper control of wiper functions.",
+        "symptoms": "Wipers not responding to switch commands, intermittent wiper operation, or failed wiper settings.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-250"
+      },
+      {
+        "title": "Washer fluid level sensor replacement",
+        "description": "Replacement of the washer fluid level sensor to ensure accurate monitoring of washer fluid level.",
+        "symptoms": "Inaccurate washer fluid level readings, low washer fluid warning light inaccuracies.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-250"
+      }
+    ]
+  },
+  {
+    "Category": "Belt replacement services",
+    "Sub-category": [
+      {
+        "title": "Serpentine belt replacement",
+        "description": "Replacement of the serpentine belt to ensure proper operation of engine accessories.",
+        "symptoms": "Squealing noise from engine, visible cracks or fraying on belt, or worn out belt.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-250"
+      },
+      {
+        "title": "Power steering belt replacement",
+        "description": "Replacement of the power steering belt to ensure proper operation of power steering system.",
+        "symptoms": "Difficulty steering, squealing noise when turning steering wheel, or visible belt damage.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-250"
+      },
+      {
+        "title": "A/C belt replacement",
+        "description": "Replacement of the A/C belt to ensure proper operation of air conditioning system.",
+        "symptoms": "Weak or warm air from vents, unusual noises from A/C system, or visible belt damage.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-250"
+      },
+      {
+        "title": "Timing belt replacement",
+        "description": "Replacement of the timing belt to prevent engine damage due to timing belt failure.",
+        "symptoms": "Engine misfires, difficulty starting engine, or visible belt damage.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$300-800"
+      }
+    ]
+  },
+  {
+    "Category": "Brake Service",
+    "Sub-category": [
+      {
+        "title": "Brake master cylinder replacement",
+        "description": "Replacement of the brake master cylinder to restore proper brake hydraulic pressure.",
+        "symptoms": "Soft or spongy brake pedal, low brake fluid level, or leaking brake fluid.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$300-700"
+      },
+      {
+        "title": "Wheel speed Sensor replacement",
+        "description": "Replacement of wheel speed sensors to ensure accurate anti-lock brake system (ABS) operation.",
+        "symptoms": "ABS warning light illuminated, traction control system (TCS) warning light illuminated, or erratic ABS/TCS operation.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$100-300 per sensor"
+      },
+      {
+        "title": "Brake hose replacement",
+        "description": "Replacement of brake hoses to ensure proper fluid flow and brake system operation.",
+        "symptoms": "Leaking brake fluid, soft or spongy brake pedal, or visible hose damage.",
+        "moreServiceList": [
+          "All",
+          "Front (one), Front (two), Rear (one), Rear (two)"
+        ],
+        "nationalAveragePrice": "$100-250 per hose"
+      }
+    ]
+  },
+  {
+    "Category": "Axle & joint service",
+    "Sub-category": [
+      {
+        "title": "Outer CV boot replacement",
+        "description": "Replacement of outer CV boots to prevent CV joint damage and ensure proper axle function.",
+        "symptoms": "Clicking or popping noises when turning, torn or leaking CV boot, or CV joint failure.",
+        "moreServiceList": [
+          "All",
+          "Front",
+          "Rear"
+        ],
+        "nationalAveragePrice": "$200-500 per axle"
+      },
+      {
+        "title": "Inner CV boot replacement",
+        "description": "Replacement of inner CV boots to prevent CV joint damage and ensure proper axle function.",
+        "symptoms": "Clicking or popping noises when turning, torn or leaking CV boot, or CV joint failure.",
+        "moreServiceList": [
+          "All",
+          "Front",
+          "Rear"
+        ],
+        "nationalAveragePrice": "$200-500 per axle"
+      },
+      {
+        "title": "U-Joint replacement",
+        "description": "Replacement of universal joints (U-joints) to ensure proper driveshaft function.",
+        "symptoms": "Clunking or banging noises when accelerating or shifting gears, driveshaft vibration, or visible U-joint damage.",
+        "moreServiceList": [
+          "Two",
+          "One"
+        ],
+        "nationalAveragePrice": "$200-500 per joint"
+      },
+      {
+        "title": "Ball joint replacement",
+        "description": "Replacement of ball joints to ensure proper suspension and steering operation.",
+        "symptoms": "Clunking or popping noises when driving over bumps, uneven tire wear, or loose steering.",
+        "moreServiceList": [
+          "Both axles",
+          "Front axle only",
+          "Rear axle only"
+        ],
+        "nationalAveragePrice": "$200-500 per joint"
+      }
+    ]
+  },
+  {
+    "Category": "Shock & spring services",
+    "Sub-category": [
+      {
+        "title": "Shock absorber replacement",
+        "description": "Replacement of shock absorbers to ensure proper vehicle ride control and handling.",
+        "symptoms": "Excessive bouncing or swaying, uneven tire wear, or leaking shock absorbers.",
+        "moreServiceList": [
+          "All",
+          "Front",
+          "Rear"
+        ],
+        "nationalAveragePrice": "$300-800 per pair"
+      },
+      {
+        "title": "Coil spring replacement",
+        "description": "Replacement of coil springs to ensure proper suspension function and vehicle ride height.",
+        "symptoms": "Vehicle sagging, bottoming out, or uneven tire wear.",
+        "moreServiceList": [
+          "All",
+          "Front",
+          "Rear"
+        ],
+        "nationalAveragePrice": "$300-800 per pair"
+      }
+    ]
+  },
+  {
+    "Category": "Interior Services",
+    "Sub-category": [
+      {
+        "title": "Door Lock cylinder replacement",
+        "description": "Replacement of door lock cylinders to ensure proper operation of door locks.",
+        "symptoms": "Key difficult to turn in lock, door lock cylinder damaged, or door lock failure.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$200-500 per cylinder"
+      },
+      {
+        "title": "Airbag occupant sensor replacement",
+        "description": "Replacement of airbag occupant sensors to ensure proper airbag deployment.",
+        "symptoms": "Airbag warning light illuminated, faulty airbag system, or diagnostic trouble codes (DTCs) related to occupant sensor.",
+        "moreServiceList": [],
+        "nationalAveragePrice": "$200-500 per sensor"
+      },
+      {
+        "title": "Liftgate support strut replacement",
+        "description": "Replacement of liftgate support struts to ensure proper liftgate operation.",
+        "symptoms": "Liftgate difficult to open or close, liftgate does not stay open, or visible strut damage.",
+        "moreServiceList": [
+          "Both",
+          "Right",
+          "Left"
+        ],
+        "nationalAveragePrice": "$100-250 per strut"
+      }
+    ]
+  }
+]
